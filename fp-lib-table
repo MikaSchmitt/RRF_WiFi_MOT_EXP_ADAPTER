@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "IDC_MIRROR")(type "KiCad")(uri "${KIPRJMOD}/IDC_MIRROR.pretty")(options "")(descr ""))
+  (lib (name "PinSocket_NoPads")(type "KiCad")(uri "${KIPRJMOD}/PinSocket_NoPads.pretty")(options "")(descr ""))
+)

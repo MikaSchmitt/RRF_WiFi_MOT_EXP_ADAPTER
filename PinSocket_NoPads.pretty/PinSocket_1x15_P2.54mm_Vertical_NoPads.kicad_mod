@@ -1,0 +1,232 @@
+(footprint "PinSocket_1x15_P2.54mm_Vertical_NoPads"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Through hole straight socket strip, 1x15, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
+	(tags "Through hole socket strip THT 1x15 2.54mm single row")
+	(property "Reference" "REF**"
+		(at 0 -2.77 0)
+		(layer "F.SilkS")
+		(uuid "29f4bbba-0279-4817-bb69-72954f6d8a73")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "PinSocket_1x15_P2.54mm_Vertical_NoPads"
+		(at 0 38.33 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cf51b0b6-58a1-404f-9a7f-f2c0966d2368")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bdaef946-a180-4bb7-b992-9e7ae19a0f08")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c703befb-8318-4401-a2f8-b76bde3a983d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "559ff972-ef4b-4299-b091-08eaf1a376e3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole board_only exclude_from_pos_files)
+	(fp_line
+		(start -1.33 1.27)
+		(end -1.33 36.89)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "40874f71-7142-4da9-abe2-5bcd0d41cb6f")
+	)
+	(fp_line
+		(start -1.33 1.27)
+		(end 1.33 1.27)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d5d51890-a6fa-4a29-acda-df66b7eea2a4")
+	)
+	(fp_line
+		(start -1.33 36.89)
+		(end 1.33 36.89)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "41afa280-97c2-4349-855f-e282049a7682")
+	)
+	(fp_line
+		(start 0 -1.33)
+		(end 1.33 -1.33)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c9782589-248a-41ef-bace-c54ea54e3f62")
+	)
+	(fp_line
+		(start 1.33 -1.33)
+		(end 1.33 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1a04f49b-173f-4230-b901-b70ad4712049")
+	)
+	(fp_line
+		(start 1.33 1.27)
+		(end 1.33 36.89)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2bb7ddde-1fe1-40fd-ad9f-e013b55caa19")
+	)
+	(fp_line
+		(start -1.8 -1.8)
+		(end 1.75 -1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "faddf9fb-0cf7-4a82-b1d1-162afd0912bc")
+	)
+	(fp_line
+		(start -1.8 37.3)
+		(end -1.8 -1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d452c70b-e357-4e09-9a47-cfa5178c0d43")
+	)
+	(fp_line
+		(start 1.75 -1.8)
+		(end 1.75 37.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6fbf84eb-ef87-4fbb-a0a1-cd795e465438")
+	)
+	(fp_line
+		(start 1.75 37.3)
+		(end -1.8 37.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "601d730d-e0d8-407c-b287-ed8c30018eb8")
+	)
+	(fp_line
+		(start -1.27 -1.27)
+		(end 0.635 -1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fc718c6d-477b-41e4-bacb-46206d3b8e28")
+	)
+	(fp_line
+		(start -1.27 36.83)
+		(end -1.27 -1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e56aaac0-2188-4bc2-82e2-3de320b76e65")
+	)
+	(fp_line
+		(start 0.635 -1.27)
+		(end 1.27 -0.635)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "84cfd711-6ac8-4626-983a-6d3b62f02049")
+	)
+	(fp_line
+		(start 1.27 -0.635)
+		(end 1.27 36.83)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9fce401b-e983-4aef-b278-3ae704bd3c8a")
+	)
+	(fp_line
+		(start 1.27 36.83)
+		(end -1.27 36.83)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1500d6ad-e68a-434a-890d-ef821a795bef")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x15_P2.54mm_Vertical.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
